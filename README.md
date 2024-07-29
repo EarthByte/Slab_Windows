@@ -17,4 +17,5 @@ In the current version, the slabs are represented as points along lines of equal
 
 # References
 McGirr, R., Seton, M. and Williams, S., 2021. Kinematic and geodynamic evolution of the Isthmus of Panama region: Implications for Central American Seaway closure. Bulletin, 133(3-4), pp.867-884.
+
 Mather, B.R., Müller, R.D., Alfonso, C.P., Seton, M. and Wright, N.M., 2023. Kimberlite eruptions driven by slab flux and subduction angle. Scientific Reports, 13(1), p.9216.
